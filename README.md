@@ -1,1 +1,16 @@
-This is the unofficial discord.py template by reach studios, anyone is free to fork or copy this repo
+This is the unofficial discord bot code template for different languages by reach studios, anyone is free to fork or copy this repo
+Visit these links for language specific template (not all of them are available yet)
+
+- Discord.py (Python) 
+- Discord.js (JavaScript)
+- Discord.ts (TypeScript)
+- Discord.java (Java)
+- Discord.go (Golang)
+- Discord.cs (C#)
+- Discord.php (PHP)
+- Discord.rs (Rust)
+- Discord.cpp (C++)
+- Discord.sh (Shell (Bash))
+- Discord.kt (Kotlin)
+- Discord.rb (Ruby)
+- Discord.dart (Dart)
